@@ -1,4 +1,4 @@
-version: '3'
+version: '4'
 services:
   web:
     container_name: webapp-frontend
@@ -8,3 +8,7 @@ services:
   redis:
     container_name: redis-backend
     image: "redis:alpine"
+    
+  windows:
+    container_name: windows-box
+    image: "windows/servercore:1903"
