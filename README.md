@@ -1,6 +1,6 @@
 # docker-compose-actions-workflow
 
-This is a GitHub Actions workflow example to demonstrate building and testing a multi-container stack using `docker-compose`.
+Test. This is a GitHub Actions workflow example to demonstrate building and testing a multi-container stack using `docker-compose`.
 
 This sample is based on the [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/) documentation.
 
