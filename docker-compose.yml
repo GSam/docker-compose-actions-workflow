@@ -11,4 +11,4 @@ services:
     
   windows:
     container_name: windows-box
-    image: "windows/servercore:1903"
+    image: "windows-latest"
